@@ -1,0 +1,17 @@
+body{
+    background-color: #f3daf6;
+}
+hr{
+    margin-right: ;
+    border-color: rgb(231, 191, 234);
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 10%;
+}
+h1,h3{
+    color: #D58BDD;
+}
+.logo{
+    margin-top: -35%;
+    margin-left: 70%;
+}
