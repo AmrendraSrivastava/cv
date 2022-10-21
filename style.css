@@ -11,7 +11,8 @@ hr{
 h1,h3{
     color: #D58BDD;
 }
-.logo{
-    margin-top: -35%;
-    margin-left: 70%;
+.hcjlogo{
+    position: fixed;
+    right: 20%;
+    bottom: 25%;
 }
